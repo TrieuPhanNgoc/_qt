@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ButtonTPN.qml</file>
+        <file>ImageTPN.qml</file>
+    </qresource>
+</RCC>
